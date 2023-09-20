@@ -10,7 +10,7 @@ Thêm dependency sau vào file pom.xml và run chương trình vào url 📃: ht
 Link maven repository 🥥: https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/2.1.0
 
 
-Swagger 3 đã tự cấu hình không cần cấu hình gì thêm
+Swagger 3 đã tự cấu hình không cần cấu hình gì thêm, nếu sử dụng spring security thì cần cho phép vượt qua api của swagger hoặc thêm bảo mật để truy cập swagger
 
 
 
